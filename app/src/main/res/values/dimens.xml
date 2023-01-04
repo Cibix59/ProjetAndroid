@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="p5">5%</dimen>
+    <dimen name="p10">10%</dimen>
+
+    <dimen name="p15">15%</dimen>
+
+</resources>

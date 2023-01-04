@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Projet Mappeur de photos</string>
+    <string name="action_settings">Parametres</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Premier Fragment</string>
+    <string name="second_fragment_label">Deuxieme Fragment</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Precedent</string>
+
+    <string name="hello_first_fragment">Bonjour premier fragment</string>
+    <string name="hello_second_fragment">Bonjour second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">Activité principale</string>
+    <string name="photo">Prendre une photo</string>
+    <string name="selectphoto">Choisir une photo</string>
+
+
+    <string name="valider">Valider</string>
+    <string name="refuser">Annuler</string>
+
+    <string name="popupNom">Indiquer le nom de la photo</string>
+    <string name="popupGroupe">Indiquer le nom du groupe</string>
+
+
+</resources>
